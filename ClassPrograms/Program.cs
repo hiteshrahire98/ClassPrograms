@@ -48,7 +48,7 @@ namespace ClassPrograms
         //    Console.WriteLine(c1.Add(40.20f, 10.2));
         //}
 
-        //static void Main(string[] args)
+        //static void Main(string[] args)  // For Abstract_Animal Class .....
         //{
         //    Dog d = new Dog();
 
